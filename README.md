@@ -6,6 +6,7 @@ julkaistu https://creativecommons.org/licenses/by-sa/4.0/ lisenssillä.
 
 - http://danielbayn.com/wushu/
 - https://fate-srd.com/
+- https://github.com/ArtturiLaitakari/FateOfWushu/blob/main/FateofWushu.xlsx Excel hahmolomake 
 
 ## Hahmonluonti
 
