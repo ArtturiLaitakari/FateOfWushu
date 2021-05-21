@@ -269,3 +269,6 @@ Hahmo saa alussa 3 inspiraatiota minus ylimääräiset stuntit. Se tarkoittaa et
 - tekemään pysyvän taikaesineen mikäli hahmolla on kyseinen voima stuntti
 
 Inspiraatiopisteitä saa lisää kun ongelma ominaisuus nousee ongelmaksi, tai jos mikä tahansa ominaisuus osoittautuu ongelmaksi, myös haavat.
+
+### Luonne
+- https://thoughtcatalog.com/january-nelson/2018/07/four-temperaments/
