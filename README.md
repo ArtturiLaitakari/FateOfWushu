@@ -18,15 +18,17 @@ julkaistu https://creativecommons.org/licenses/by-sa/4.0/ lisenssillä.
 
 ### Valitse Mantteli
 
-| Mantteli       | Etu                                                          |
-| -------------- | ------------------------------------------------------------ |
-| Maagi          | Maagi voima                                                  |
-| Mentalisti     | Mentalismi voima                                             |
-| Muodonmuuttaja | Muodonmuutos voima                                           |
-| Potentiaalinen | 1 stuntti, inspiraatio 6                                     |
-| Sponsoroitu    | Elementin hallinta, velka ominaisuus                         |
-| Valittu        | Maallinen voima skaala, inspiraatio -2 (1), ei voimaa, perus kuvaukset 4 |
-| Veteraani      | Inspiraatio 4, ei voimaa                                     |
+| Mantteli            | Perus stuntit ja ominaisuudet                                |
+| ------------------- | ------------------------------------------------------------ |
+| Hirviön  metsästäjä | Legenda skaala, Inspiraatio 1 Voi  käyttää mana pisteitä melee taistelussa hyökätäkseen useamman vihollisen  kimppuun |
+| Maagi               | Maagi voimastuntit, magianäkö, näe maagiset energiat  ympäristössä. |
+| Mentalisti          | Mentalisi voimastuntit, Auranäkö, näe kohteen aura, eli  henkisen ja fyysisen tilann |
+| Potentiaalinen      | 1 stuntti, Inspiraatio 6                                     |
+| Sponsoroitu         | Elementin hallinta voimastuntit, Aisti elementti kyky joka  riippuu elementistä. Tuli antaa infrapunanäön. |
+| Vaihdokas           | Muodonmuutos voimastuntit. Valitse 1 eläimen aisti joka aina  päällä. Ulkonäkö hyvä. Voi käyttää manapisteitä melee alue hyökkäyksiin |
+| Veteraani           | Inspiraatio 4.                                               |
+
+#### 
 
 #### Ominaisuudet
 
