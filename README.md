@@ -1,3 +1,5 @@
+
+
 # Wushu Fate perussäännöt
 
 Wushu perustuu peleihin Wushu rpg ja Fate rpg.
@@ -5,8 +7,12 @@ Wushu perustuu peleihin Wushu rpg ja Fate rpg.
 julkaistu https://creativecommons.org/licenses/by-sa/4.0/ lisenssillä.
 
 - http://danielbayn.com/wushu/
+
 - https://fate-srd.com/
-- https://github.com/ArtturiLaitakari/FateOfWushu/blob/main/FateofWushu.xlsx Excel hahmolomake 
+
+- https://github.com/ArtturiLaitakari/FateOfWushu/blob/main/FateofWushu.xlsx Excel hahmolomake
+
+  
 
 ## Hahmonluonti
 
@@ -30,11 +36,12 @@ julkaistu https://creativecommons.org/licenses/by-sa/4.0/ lisenssillä.
 - Rotu antaa etuja ja heikkouksia
 - Tausta kertoo mikä hahmo oli ennen ammattiinsa ryhtymistä, mistä hän on kotoisin. Määrittää toissijaiset taidot
 
-| Taito              | Lähestymistapa |
-| ------------------ | -------------- |
-| Keskeinen          | -0             |
-| Läheltä liippaa    | -1             |
-| Ei kuulu ammattiin | -2             |
+| Taito              | Minus |
+| ------------------ | ----- |
+| Keskeinen          | -0    |
+| Läheltä liippaa    | -1    |
+| Ei kuulu ammattiin | -2    |
+| Taustan taito      | -1    |
 
 #### Lähestymistavat
 
@@ -44,25 +51,26 @@ julkaistu https://creativecommons.org/licenses/by-sa/4.0/ lisenssillä.
 
 Jos hahmo tekee kehollista asiaa, summa on keho + lähestymsistapa.
 
-Henkisissä ja sosiaalisissa haasteissa on mieli + lähestymistapa, maagisissa/muut voimat, sielu + lähestymistapa.
+Henkisissä ja sosiaalisissa haasteissa on mieli + lähestymistapa, voimien käytössä, sielu + lähestymistapa.
 
-Jokainen D6 heitto joka on summan tasoinen tai alle on onnistuminen.
+Jokainen D6 heitto joka on summan tasoinen tai alle on onnistuminen, samoin 1.
 
-Hahmo saa tehdä kierroksessa kuvauksia 2 + skaala (perushahmo on skaalalla 1, eli 3 kuvausta) plus stuntista mahdolliset 2, eli yhteensä 3-5 kuvausta (vampyyrin tappajilla ja muilla maallisilla voimilla 6)
+Jokainen D6 heitto joka on 6 on epäonnistuminen. 
+
+Hahmo saa tehdä kierroksessa kuvauksia 1 + skaala (perushahmo on skaalalla 2, eli 3 kuvausta) plus stuntista mahdolliset 2, eli yhteensä 3-5 kuvausta (Hirviön tappajalla ja muillla Legendaarisilla sankareilla 6)
 
 Jos hahmo yrittää asiaa joka ei loogisesti kuulu ammattin taitoihin tai taustan taitoihin, tulee summaan -1 tai -2. 
 
-Heitto 1 kuitenkin onnistuu aina.
-
 ##### Moka
 
-Jos epäonnistumisia tulee useita eikä yhtään onnistumista, hahmo tekee mokan eli näyttävän epäonnistumisen, mieluiten nolon.
+Jos yhtään onnistumista ei tule, hahmo tekee mokan eli näyttävän epäonnistumisen, mieluiten nolon.
 
 Hyvä kuvaus voi ansaita inspiraatiopisteen.
 
 #### Stuntit (esim voima)
 
-- Perus 3 stunttia. Joko manttelivoima, taito bonus tai erikoisesine.
+- Perus hahmo saa alussa 3 stunttia. Joko manttelivoima, taito bonus tai erikoisesine.
+- Jos pelaaja haluaa voima stuntteja, hän saa valita Manttelinsa voimalistalta, ei muita voimia.
 - 1-2 lisä stunttia hintaan -1 inspiraatio/lisä stunt. Inspiraation taso alussa 3, ja se voi laskea yhteen.
 - Stuntti voi olla maaginen esine jolloin bonuksen saa aina kun esinettä käyttää siihen tarkoitukseen kuin se on tarkoitettu, tilanne ei niin rajoitettu kuin puhdas taito
 - "Koska minulla on maaginen rapier, saan +2 kuvausta näyttävään lähestymistapaan kun käytän asetta meleessä"
@@ -85,101 +93,108 @@ Hyvä kuvaus voi ansaita inspiraatiopisteen.
 | Pimentohaltia | Yöllä näkö +1 skaala, päivällä -1 skaala                     | 10         |
 | Pirulainen    | kynnet, sarvet torahampaat, pelätty rotu                     | 10         |
 | Päivähaltia   | Päivällä näkö +1 skaala, yöllä -1 skaala                     | 10         |
-| Örkki         | Koko +1 skaala, infrapunanäkö,yhteyttävä iho, vihattu rotu   | 0.2        |
+| Örkkimies     | Koko +1 skaala, infrapunanäkö,yhteyttävä iho, vihattu rotu   | 0.2        |
+| Örkkinainen   | Voima+1 skaala, infrapunanäkö,yhteyttävä iho, vihattu rotu   | 0.2        |
 
 Hahmon näennäinen ikä kertaa ikäkerroin on todellinen ikä. 5v örkki on fyysisesti ja henkisesti 25 v ihmistä vastaava, 250 vuotias haltia on fyysisesti ja henkisesti 25v ihmisen tasolla.
 
 ### Laske lähestymistavat
 
 - Jokaiselle lähestymistavalle on summa lähestymistapa + keho/mieli/sielu, tai anna excelin laskea nämä
-
 - Mana on mieli + sielu + sielu
+
+## Mantteli
+
+| Mantteli           | Perus stuntit ja ominaisuudet                                |
+| ------------------ | ------------------------------------------------------------ |
+| Hirviön metsästäjä | Legenda skaala, Inspiraatio 1. Voi käyttää mana pisteitä melee  taistelussa hyökätäkseen useamman vihollisen kimppuun |
+| Maagi              | Maagi voimastuntit, magianäkö, näe maagiset energiat  ympäristössä. |
+| Mentalisti         | Mentalisi voimastuntit, Auranäkö, näe kohteen aura, eli  henkisen ja fyysisen tilann |
+| Potentiaalinen     | 1 stuntti, Inspiraatio 6                                     |
+| Sponsoroitu        | Elementin hallinta voimastuntit, Aisti elementti kyky joka  riippuu elementistä. Tuli antaa infrapunanäön. |
+| Vaihdokas          | Muodonmuutos voimastuntit. Valitse 1 eläimen aisti joka aina  päällä. Ulkonäkö hyvä. Voi käyttää manapisteitä melee alue hyökkäyksiin |
+| Veteraani          | Inspiraatio 4.                                               |
 
 ## Voimat
 
-| Mentalismi       | STUNTIT                                           | Henkinen  taistelu                                           |
-| ---------------- | ------------------------------------------------- | ------------------------------------------------------------ |
-| Auranäkö         | Näe kohteen auran,  henkisen tilan                | Fyysisen vaurion sijaan henkistä vauriota                    |
-| Telekinesia      | Siirrä esineitä etäällä,  ei tarkka               | Riippumatta siitä kumpi aloittaa taistelun hyökkäsi, häviäjä saa vauriota |
-| Empatia          | Lue ja aiheuta tunteita,  tunne yhteys            | Yhteyden sulkeminen vaatii 1p onnistumisen, uhrille 2        |
-| Telepatia        | Luo ajatusyhteys, lue ja  aiheuta ajatuksia       | Paranee kuten perusvaurio                                    |
-| Ennustus         | Luo tallennuspiste, saa  vihjeitä tulevaisuudesta |                                                              |
-| Psykonikesis     | Sähkö, tuli tai henkinen  isku                    |                                                              |
-| Astraalikeho     | Liiku aineettomaan, voi  vallata kehon            |                                                              |
-| Käsillä Parannus | Paranna haava 1 tason  "Parantuva" tila           |                                                              |
-| ESP              | Aisti kaukaa, jos  sympaattinen yhteys            |                                                              |
+| Voimastuntit  -  Mentalismi                                  |
+| ------------------------------------------------------------ |
+| Telekineetikko,  liikuta esineitä etäältä (sieluvoima)       |
+| Empaatti,  lue ja aiheuta tunteita (riski on tynneyhteys)    |
+| Ennustus,  näe enneunia vaaroista ja isoista asioista, näe epäonnistuneet tehtävät näin  luoden tallennuspisteen. |
+| Psykokinesis,  luonteen perusteella voit ampua yhtä elementtiä, sähköä, tulta tai henkistä  vauriota tekevän iskun. |
+| Telepaatia,  luo mielten yhteyden jota voi käyttää henkiseen taistelun. Luo tai lue  muistoja tai ajatuksia. |
+| Astraalikeho. Irrota  astraalikeho ja liiku näkymättömästi ympäriinsä ja havannoi ympäristöä. Kehon  valtaamalla voit käyttää voimiasi fyysiseen maailmaan |
+| Käsillä  parannus. Laske vaurion tasoa yhdellä ja lisää "parantuva" sen  alkuun. (ei voi parantaa useasti) |
+| ESP. Aisti kaukaisia paikkoja  kuin olisit siellä, tarvitsee yhteyden |
 
+Henkinen  taistelu                                           
 
+* Fyysisen vaurion sijaan henkistä vauriota                    
+* Riippumatta siitä kumpi aloittaa taistelun hyökkäsi, häviäjä saa vauriota 
+* Yhteyden sulkeminen vaatii 1p onnistumisen, uhrille 2p        
 
-| Elementin  Hallinta     | STUNTIT                                                      |
-| ----------------------- | ------------------------------------------------------------ |
-| Elementti aisti         | Näe elementin avulla (infra)                                 |
-| Ohjaa                   | Telekinesia elementille                                      |
-| Luo                     | Luo elementtiä kuten haluat                                  |
-| Muuta                   | Muuta elementin muotoa tai ominaisuuksia, muutu  elementaaliseksi itse |
-| Suojaa                  | Suojaa elementillä, suojaudu elementiltä, paranna            |
-| Taikajuomat  tai riimut | Kuten edistynyt magia                                        |
-| Boostaus                | alue tai kestoaika +1                                        |
-| Sisarelementit          | 2-3 saman perheen elementtiä                                 |
-| Elementaalinen          | Kutsu elementin golemi                                       |
-
-| Magia              | Kesto               | 1ip           | STUNTIT                                                      |
-| ------------------ | ------------------- | ------------- | ------------------------------------------------------------ |
-| Sielunkatse        | Keskittyminen       | kohtaus       | Näe maagiset energiat                                        |
-| Portaali           | Hetki               | keskittyminen | Kutsu elementtejä henkimaailmasta                            |
-| Taivuta  energiaa  | Keskittyminen       | kohtaus       | Taivuta energiaa kuten valoa, ääntä, liike energiaa. Suojakilvet, liitäminen |
-| Transformaatio     | Keskittyminen       | MMV           | Muuta kohde halutunlaiseksi                                  |
-| Animoi             | Pysyvä              | Ehto          | Herätä eloton eloon, anna sille tarkoitus mutta siitä eteenpäin se alkaa itsenäistuä |
-| Vaihda  ominaisuus | Muodonmuutos vaurio | Ehto          | Vaihda ominaisuus tai haava kohteelta toiselle               |
-| Alkemia            | -                   |               | Luo taikaesine hopeasta tai kullasta, palautuva loitsu       |
-| Riimutaikuus       | -                   |               | Luo taikaesine kirjaamalla siihen riimuja, laukaisu riimu    |
-| Taikajuomat        | -                   |               | Luo taikajuomia, lataukset                                   |
+| Voimastuntit - Magia                                         |
+| ------------------------------------------------------------ |
+| Portaali.  Magus voi avata yhteyden toiseen paikkaan tai henkimaailman tasolle josta hän  voi kutsua elementtejä tai olentoja. Oma telesiirto on vaikeaa. Kesto hetken |
+| Taivuta  energiaa. Velho voi taivuttaa mitä tahansa energiaa mitä hän on opetellut eri  tavoilla, sallien suojakilpi, näkymättömyys tai levitointi loitsuja. Kesto  keskittyminen (Kohtaus inspiraatio pisteellä) |
+| Transformaatio.  Druidi voi muuttaa kohteen toiseksi kohteeksi jonka hän on opetellut. Kesto  Keskittyminen (Muodonmuutos vaurio inspiraatio pisteellä) |
+| Animoi.  Shamaani voi kutsua hengen esineeseen, kasviin tai yksinkertaiseen eläimeen  tehden siitä uskollisen palvelijan. Kesto on pysyvä, ja olento itsenäistyy  ajan myötä (Ehto inspiraatio pisteellä) |
+| Vaihda  ominaisuus. Noita voi vaihtaa ominaisuuden, lähestymistavan, haavan tai muun  määriteltävissä olevan ominaisuuden kohteelta. Kesto MMV. (Ehto inspiraatio pisteellä) |
+| Alkemia.  Maagi voi tehdä taikaesineitä Alkemia sääntöjen mukaan. |
+| Riimutaikuus.  Maagi voi tehdä taikaesineen Riimutaikuuden sääntöjen mukaan |
+| Taikajuomat.  Maagi voi tehdä taikajuoman Taikajuomasääntöjen mukaan |
 
 | Kesto               |                                                              |
 | ------------------- | ------------------------------------------------------------ |
 | Keskittyminen       | Sitoo nopat, jos pistät 3 onnistumista puolustukseen, keskittymisen ajan sinulla on 3 noppaa vähemmän käytössä |
 | Hetki               | vain hetki                                                   |
 | Muodonmuutos vaurio | kestää kuin Sielunvaurio. Ei aiheuta vauriota, vaan kertoo muutoksen suuruuden. 1. lievä = pinnallinen muutos, 2. vakava = näkyvästi täydellinen muutos, 3. kuolettava = muuttaa ajattelunkin, kokonaan. |
-| Pysyvä              | Ei voi peruuttaa                                             |
+| Pysyvä              | Ei voi peruuttaa, pysyvä tulivalli sammuu heti kun polttoaine loppuu. |
 | Ehto                | Kestää kunnes ehto täytetty, naurettavat ehdot saattavat täyttyä yllättävän nopeasti, kannattaa etsiä reilu ehto (kohtalon jumalat seuraa) |
 
-| Muodonmuutos           | STUNTIT                                                      | Regeneraatio |
-| ---------------------- | ------------------------------------------------------------ | ------------ |
-| Eläimen aisti          | Saat aina aktiiviseksi 1 eläimen normaalin aistin kuten suden  hajuaisti |              |
-| 1. Ihmismuodot         | Muuta ihoa, hiuksia, kynsiä. Omaksu oman muotoisena toisen  olennon ulkonäkö, R1 | 1            |
-| 2. Eläinmuodot         | Muuta luita, joten voit omaksua eläimen muodon. Tarvitset dna  näytteen |              |
-| 3. Hybridi  muodot     | Voit ottaa ja sekoittaa monen eläimen ominaisuuksia.  Regeneraatio 2 | 2            |
-| 4. Koon  hallinta      | Jokainen onnistuminen antaa +- koko aspektia                 |              |
-| 5. Kemialliset  voimat | Hahmo voi matkia eläinten kemiallisia kykyjä, kuten  tulihenkäys | 3            |
-| Verimagia              | Addiktoi verellä, luo eläimiä verestä tai irrota kehon osia ja  muuta ne eläimiksi |              |
-| Sisäelinten hallinta   | Muuta sisäelimiä, luo lisä sydän, siirrä se, laajenna aivojen  kokoa |              |
-| Mielen hallinta        | Luo vale persoona joka hämää telepaatteja tai empaatteja.  Lainaa kohteen taitoja joista dna näyte |              |
-| * Regeneraatio         | Regeneraatio aloittaa haavan parantumisen heti, tiputa vaurion vakavuusastetta regeneraatio pistemäärällä ja lisää sen eteen "parantuva". Parantuvaa haavaa ei voi uudestaan parantaa. (paitsi siirtämällä sen magialla toiselle) |              |
+| Voimastuntit - Muodonmuutos                                  |
+| ------------------------------------------------------------ |
+| 1. Ihmismuodot.  Hahmo voi muuttaa pehmytkudostaan kuten ihoa ja lihaksia sekä kynsiä ja  hiuksia opettelemansa muodon mukaiseksi. Regeneraatio 1 |
+| 2. Eläinmuodot. Hahmo voi muuttaa myös  luustorakennettaan opettelemansa eläimen mukaiseksi. |
+| 3. Hybridimuodot. Hahmo voi muutella osia  itsestään eri opettelemiansa eläinten muotojen mukaan luoden fantastisia  muotoja. Regeneraatio 2 |
+| 4. Koon hallinta. Hahmo voi muuttaa  kokoaan. 1 onnistuminen voi tuplata koko kertoimen tai puolittaa koon. |
+| 5. Kemialliset kyvyt. Hahmo voi matkia  opettelemaltaan eläimeltä kemiallisen kyvyn ja ottaa sen muihin muotoihinsa  kuten seitti, myrkky tai kovakuoriaisen polttavan kemikaalin. Regeneraatio 3 |
+| Mielenhallinta. Luo valepersoona ja  piilota oma persoona niin että ottamasi muoto ei edes tiedä olevansa sinä.  Hämää mentalisteja, ja voit saada kohteen taidot käyttöösi. |
+| Sisäelinten hallinta. Siirtele sisäelimiä  paikasta toiseen tai luo niitä lisää. |
+| Verimagia. Luo verestäsi eläimiä, anna  niille tehtäviä, vahvista seuraajiasi kyvyilläsi juottamalla heille vertasi  ja tee heistä uskollisia. |
+| * Regeneraatio aloittaa haavan parantumisen heti, tiputa vaurion vakavuusastetta regeneraatio pistemäärällä ja lisää sen eteen "parantuva". Parantuvaa haavaa ei voi uudestaan parantaa. (paitsi siirtämällä sen magialla toiselle) |
 
 ### Aluehyökkäys
 
-| Mana | alue |
-| ---- | ---- |
-| 1.   | 3    |
-| 2.   | 6    |
-| 3.   | 10   |
-| 4.   | 15   |
-| 5.   | 21   |
+| Mana | alue / kohteet |
+| ---- | -------------- |
+| 1.   | 3              |
+| 2.   | 6              |
+| 3.   | 10             |
+| 4.   | 15             |
+| 5.   | 21             |
 
-Hahmon manataso on mieli pallukat + sielupallukat * 2.
+Hahmon **manataso** on mieli pallukat + sielupallukat * 2.
 
-Mana palautuu joka kohtaus täyteen.
+Mana palautuu joka kohtaus täyteen (noin 1p minuutissa)
 
 Käyttämällä 1 manapisteen hahmo voi tehdä aluevaikutuksen joka on 3 pisteen alue. 
 
 Alue voi olla
 
 -  räjähdys jonka halkaisija on pistemäärä metriä (esim 3m radius räjähdys)
-- valli jonka leveys on pistemäärä metriä, ja korkeus hahmon korkeuden verran, paksuus max 1m
-- Kohteita voi olla 1/piste, eli 3p alue voi olla 3 vastustajaa jotka ovat lähekkäin.
-- suihku jonka pituus on piste metriä. (1 mana antaa 3m suihkun.) suihkun max kulmaleveys on 45 astetta.
+-  valli jonka leveys on pistemäärä metriä, ja korkeus hahmon korkeuden verran, paksuus max 1m
+-  Kohteita voi olla 1/piste, eli 3p alue voi olla 3 vastustajaa jotka ovat lähekkäin.
+-  suihku jonka pituus on piste metriä. (1 mana antaa 3m suihkun.) suihkun max kulmaleveys on 45 astetta.
 
 Mikäli hahmolla ei ole aluehyökkäys kykyä, voi hän rajoitetusti käyttää manaa meleehyökkäyksessä hyökäten 3 normaalikokoisen kimppuun, 6 pienen vastustajan kimppuun tai suurempaan joukkoon erittäin pienten vastustajien kimppuun.
+
+### Luonne
+
+Valitse persoonallisuus: Johtaja, rakentaja, neuvottelija, seikkailija
+
+- https://thoughtcatalog.com/january-nelson/2018/07/four-temperaments/
 
 # Wushu perussäännöt
 
@@ -230,32 +245,43 @@ mikäli onnistumisia ei tule tarpeeksi, vastustaja onnistuu torjumaan hyökkäyk
 - Vaurioon lisätään sana "parantuva" jonka jälkeen sitä ei voi enää parantaa toistamiseen.
 - Regeneraatio laskee 1-3 tasoa haavaa, ja haavaan tulee heti "parantuva" merkintä. Muodonmuutos mestarilta jos irrotetaan miekalla käsi, pelaaja merkitsee lievän vaurion "parantuva käsi irti". Jos hahmo saa käden palautettua paikalleen, se paranee päivässä, jos ei, se paranee viikossa.
 - Vaihda ominaisuus kyvyllä noita voi siirtää haavan toiselle olennolle. Jos tappavan vaurion siirtää uhrilampaalle, haava katoaa kohteelta heti eikä se vaadi parantumisaikaa. Noita kuitenkin vaatii 1 onnistumisen per vauriotaso, tai loitsu epäonnistuu. Jos uhri jolle vaurio siirretään on selvästi pienempi, vauriotaso nousee 1 taso per koko taso. -2 koon eläin räjähtää jos sille siirretään vakava vaurio ihmiseltä. Sen pienemmälle siirto vain epäonnistuu.
+- Haavataso on ominaisuus jota voidaan käyttää sinua vastaan. Jos sinulla on murtunut jalka, voit saada inspiraatio pisteen kun et pääse karkuun zombie joukkiota.
+
+| Lähestymistavat |                                                              |
+| --------------- | ------------------------------------------------------------ |
+| Keskittyneesti  | * Kaikki tarkkuutta vaativa  hidas työ<br />* lukkojen avaaminen,  tarkkuusammunta (tähtäys on kierros)<br />* taistelussa vaatii aina valmistelukierroksen |
+| Älykkäästi      | * Oppineen asiat, tutkiminen,  oivaltaminen<br />* taistelussa vain edun luomiseen |
+| Tyylillä        | * karismaa kaipaavat asiat,  teatteri, tanssiminen<br />* Akrobatia, temppu taistelu |
+| Voimakkaasti    | * Kaikki voimaa kaipaava työ,  perus melee                   |
+| Nopeasti        | * kaikki nopeutta vaativa,  epätarkka, nopea melee           |
+| Ovelasti        | * nokkeluutta ja nopeaa  ajattelua vaativa, bluffaus, valehtelu<br />* sama temppu ei yleensä toimi  kahta kertaa<br />* taistelussa yleensä vain edun luomiseen |
+
+- Mikäli (normaalisti) teet kierroksessa montaa eri asiaa, valitse keskeisin lähestymistapa, ja heitä noppaa sitä vastaan.
 
 ## Viholliset
 
+- Vastustajat eivät normaalisti heitä noppaa vaan he luovat haasteen pelaajahahmoille jotka yrittävät pärjätä haasteen kourissa.
+- (*) Taito stuntti antaa 1 onnistumisen, ei +2 kuvausta 
+
 ### Nimetty vastustaja
 
-On määritelty vastustaja jolla on normaalit vauriotasot, 6 lähestymistapaa tasoilla 1-5, ja 1-3 stunttia. Taistelu toimii kuten pelaajahahmoa vastaan.
+| Vaikeustaso | Onnistumisia | Kesto | Stuntit / voimastuntit / taikaesineet |
+| ----------- | ------------ | ----- | ------------------------------------- |
+| tavallinen  | 1            | O     | 1                                     |
+| hyvä        | 2            | OO    | 2                                     |
+| erinomainen | 3            | OOO   | 3                                     |
 
 ### Nimetön vastustaja
 
-| Lkm  | Miekka | Kilpi | Kesto |
-| ---- | ------ | ----- | ----- |
-| 1    | 1      | 0     | 1     |
-| 3    | 1      | 0     | 2     |
-| 6    | 2      | 1     | 3     |
+| Joukko | Miekka | Kesto   |
+| ------ | ------ | ------- |
+| 1      | 1      | O       |
+| 3      | 2      | OOO     |
+| 6      | 3      | OOO OOO |
 
-Nimetön vastustaja ei heitä noppaa, se luo aina tasaisen haasteen jota vasten pelaaja yrittää pärjätä.
+Jokaisella hirviöllä oma pieni muutos
 
-| Monsteri    | Miekka | Kilpi | Stuntit* | Kesto |
-| ----------- | ------ | ----- | -------- | ----- |
-| Tavallinen  | 1      | 0     | 1        | 1     |
-| Hyvä        | 1      | 0     | 2        | 2     |
-| Erinomainen | 2      | 1     | 3        | 3     |
-| Loistava    | 2      | 2     | 4        | 4     |
-| Uskomaton   | 3      | 2     | 5        | 5     |
-
-(*) Stuntti antaa 1 onnistumisen, ei +2 kuvausta ( tai voiman)
+- Zombie: 1 kilpi, hidas ja tyhmä
 
 ### Inspiraatio
 
@@ -270,5 +296,13 @@ Hahmo saa alussa 3 inspiraatiota minus ylimääräiset stuntit. Se tarkoittaa et
 
 Inspiraatiopisteitä saa lisää kun ongelma ominaisuus nousee ongelmaksi, tai jos mikä tahansa ominaisuus osoittautuu ongelmaksi, myös haavat.
 
-### Luonne
-- https://thoughtcatalog.com/january-nelson/2018/07/four-temperaments/
+### Skaala
+
+1. Tavallinen
+2. Sankari
+3. Legenda
+4. Puolijumala
+
+Jokainen skaala etu joka hahmolla on kohteeseen verrattuna antaa yhden automaattisen (lisä) onnistumisen.
+
+Perus sankarit ja hirviöt ovat sankari tasolla. Iso johtaja pahis on Legenda tasolla. Puolijumala tasolla olevat omaavat jo moniulottuvuus voimia ja pelaavat kosmista peliä.
