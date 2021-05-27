@@ -5,16 +5,17 @@
 Wushu perustuu peleihin Wushu rpg ja Fate rpg.
 
 julkaistu https://creativecommons.org/licenses/by-sa/4.0/ lisenssillä.
-
 - http://danielbayn.com/wushu/
-
 - https://fate-srd.com/
-
 - https://github.com/ArtturiLaitakari/FateOfWushu/blob/main/FateofWushu.xlsx Excel hahmolomake
 
-  
+Miksi Wushu of Fate?
 
-## Hahmonluonti
+Pelin perusmoottori on sen verran yksinkertainen jotta pelinjohtaja voi keskittyä tarinan viemisen eteenpäin ja pelaajat voivat keskittyä hahmonsa toimiin ja sankarin hommiin, eikä peli pysähtele sääntökirjojen lukemiseen.
+
+Pelaajille annetaan riittävästi monipuolisuutta hahmon luontiin jotta hahmosta saadaan yksilöllinen, voimakas ja monipuolinen.
+
+## Osa 1 - Hahmonluonti
 
 ### Valitse Mantteli
 
@@ -27,8 +28,6 @@ julkaistu https://creativecommons.org/licenses/by-sa/4.0/ lisenssillä.
 | Sponsoroitu         | Elementin hallinta voimastuntit, Aisti elementti kyky joka  riippuu elementistä. Tuli antaa infrapunanäön. |
 | Vaihdokas           | Muodonmuutos voimastuntit. Valitse 1 eläimen aisti joka aina  päällä. Ulkonäkö hyvä. Voi käyttää manapisteitä melee alue hyökkäyksiin |
 | Veteraani           | Inspiraatio 4.                                               |
-
-#### 
 
 #### Ominaisuudet
 
@@ -105,6 +104,14 @@ Hahmon näennäinen ikä kertaa ikäkerroin on todellinen ikä. 5v örkki on fyy
 - Jokaiselle lähestymistavalle on summa lähestymistapa + keho/mieli/sielu, tai anna excelin laskea nämä
 - Mana on mieli + sielu + sielu
 
+### Luonne
+
+Valitse persoonallisuus: Johtaja, rakentaja, neuvottelija, seikkailija
+
+- https://thoughtcatalog.com/january-nelson/2018/07/four-temperaments/
+
+
+
 ## Mantteli
 
 | Mantteli           | Perus stuntit ja ominaisuudet                                |
@@ -118,6 +125,8 @@ Hahmon näennäinen ikä kertaa ikäkerroin on todellinen ikä. 5v örkki on fyy
 | Veteraani          | Inspiraatio 4.                                               |
 
 ## Voimat
+
+#### Mentalismi
 
 | Voimastuntit  -  Mentalismi                                  |
 | ------------------------------------------------------------ |
@@ -134,26 +143,32 @@ Henkinen  taistelu
 
 * Fyysisen vaurion sijaan henkistä vauriota                    
 * Riippumatta siitä kumpi aloittaa taistelun hyökkäsi, häviäjä saa vauriota 
-* Yhteyden sulkeminen vaatii 1p onnistumisen, uhrille 2p        
+* Yhteyden sulkeminen vaatii 1p onnistumisen, uhrille 2p      
+
+#### Magia
 
 | Voimastuntit - Magia                                         |
 | ------------------------------------------------------------ |
-| Portaali.  Magus voi avata yhteyden toiseen paikkaan tai henkimaailman tasolle josta hän  voi kutsua elementtejä tai olentoja. Oma telesiirto on vaikeaa. Kesto hetken |
+| Portaali.  Magus voi avata yhteyden toiseen paikkaan tai henkimaailman tasolle josta hän  voi kutsua elementtejä tai olentoja. Oma telesiirto on vaikeaa. Kesto hetken (Keskittyminen inspiraatio pisteellä) |
 | Taivuta  energiaa. Velho voi taivuttaa mitä tahansa energiaa mitä hän on opetellut eri  tavoilla, sallien suojakilpi, näkymättömyys tai levitointi loitsuja. Kesto  keskittyminen (Kohtaus inspiraatio pisteellä) |
-| Transformaatio.  Druidi voi muuttaa kohteen toiseksi kohteeksi jonka hän on opetellut. Kesto  Keskittyminen (Muodonmuutos vaurio inspiraatio pisteellä) |
+| Transformaatio.  Druidi voi muuttaa kohteen toiseksi kohteeksi jonka hän on opetellut. Kesto  Kohtaus. (Ehto inspiraatio pisteellä) |
 | Animoi.  Shamaani voi kutsua hengen esineeseen, kasviin tai yksinkertaiseen eläimeen  tehden siitä uskollisen palvelijan. Kesto on pysyvä, ja olento itsenäistyy  ajan myötä (Ehto inspiraatio pisteellä) |
-| Vaihda  ominaisuus. Noita voi vaihtaa ominaisuuden, lähestymistavan, haavan tai muun  määriteltävissä olevan ominaisuuden kohteelta. Kesto MMV. (Ehto inspiraatio pisteellä) |
+| Vaihda  ominaisuus. Noita voi vaihtaa ominaisuuden, lähestymistavan, haavan tai muun  määriteltävissä olevan ominaisuuden kohteelta. Kesto Ehto (pysyvä inspiraatio pisteellä) |
 | Alkemia.  Maagi voi tehdä taikaesineitä Alkemia sääntöjen mukaan. |
 | Riimutaikuus.  Maagi voi tehdä taikaesineen Riimutaikuuden sääntöjen mukaan |
 | Taikajuomat.  Maagi voi tehdä taikajuoman Taikajuomasääntöjen mukaan |
 
-| Kesto               |                                                              |
-| ------------------- | ------------------------------------------------------------ |
-| Keskittyminen       | Sitoo nopat, jos pistät 3 onnistumista puolustukseen, keskittymisen ajan sinulla on 3 noppaa vähemmän käytössä |
-| Hetki               | vain hetki                                                   |
-| Muodonmuutos vaurio | kestää kuin Sielunvaurio. Ei aiheuta vauriota, vaan kertoo muutoksen suuruuden. 1. lievä = pinnallinen muutos, 2. vakava = näkyvästi täydellinen muutos, 3. kuolettava = muuttaa ajattelunkin, kokonaan. |
-| Pysyvä              | Ei voi peruuttaa, pysyvä tulivalli sammuu heti kun polttoaine loppuu. |
-| Ehto                | Kestää kunnes ehto täytetty, naurettavat ehdot saattavat täyttyä yllättävän nopeasti, kannattaa etsiä reilu ehto (kohtalon jumalat seuraa) |
+| Kesto             |                                                              |
+| ----------------- | ------------------------------------------------------------ |
+| Keskittyminen     | Sitoo nopat, jos pistät 3 onnistumista puolustukseen, keskittymisen ajan sinulla on 3 noppaa vähemmän käytössä |
+| Hetki             | vain hetki                                                   |
+| Pysyvä            | Ei voi peruuttaa, pysyvä tulivalli sammuu heti kun polttoaine loppuu. |
+| Ehto              | Kestää kunnes ehto täytetty, naurettavat ehdot saattavat täyttyä yllättävän nopeasti, kannattaa etsiä reilu ehto (kohtalon jumalat seuraa) |
+| Lievä haaste      | 1 onnistuminen                                               |
+| Vakava haaste     | 2 onnistumista                                               |
+| Kuolettava haaste | 3 onnistumista                                               |
+
+#### Muodonmuutos
 
 | Voimastuntit - Muodonmuutos                                  |
 | ------------------------------------------------------------ |
@@ -167,7 +182,9 @@ Henkinen  taistelu
 | Verimagia. Luo verestäsi eläimiä, anna  niille tehtäviä, vahvista seuraajiasi kyvyilläsi juottamalla heille vertasi  ja tee heistä uskollisia. |
 | * Regeneraatio aloittaa haavan parantumisen heti, tiputa vaurion vakavuusastetta regeneraatio pistemäärällä ja lisää sen eteen "parantuva". Parantuvaa haavaa ei voi uudestaan parantaa. (paitsi siirtämällä sen magialla toiselle) |
 
-### Aluehyökkäys
+### Voimasääntöjä
+
+#### Aluehyökkäys
 
 | Mana | alue / kohteet |
 | ---- | -------------- |
@@ -190,15 +207,13 @@ Alue voi olla
 -  Kohteita voi olla 1/piste, eli 3p alue voi olla 3 vastustajaa jotka ovat lähekkäin.
 -  suihku jonka pituus on piste metriä. (1 mana antaa 3m suihkun.) suihkun max kulmaleveys on 45 astetta.
 
-Mikäli hahmolla ei ole aluehyökkäys kykyä, voi hän rajoitetusti käyttää manaa meleehyökkäyksessä hyökäten 3 normaalikokoisen kimppuun, 6 pienen vastustajan kimppuun tai suurempaan joukkoon erittäin pienten vastustajien kimppuun.
+[Buffy & Willow]: (Buffy&Willow.md)
 
-### Luonne
+[Buffy & Willow]: https://github.com/ArtturiLaitakari/FateOfWushu/blob/main/Buffy%26Willow.md	""Buffy & Willow""
 
-Valitse persoonallisuus: Johtaja, rakentaja, neuvottelija, seikkailija
 
-- https://thoughtcatalog.com/january-nelson/2018/07/four-temperaments/
 
-# Wushu perussäännöt
+# Osa 2 - Wushu perussäännöt
 
 Jokainen kuvaus antaa hahmolle 1 nopan, 6 sivuisen. joka kierros pelaaja (ja pelinjohtaja) valitsee yhden lähestymistavan jota vasten hän heittää noppia. kuvausten maksimimäärä on 2 + hahmoskaala (1 perussankari, 2 maallinen voima) + stuntti (yleensä 2, joskus 1 jos laaja-alainen stuntti). Eli normaalisti 3-5 noppaa/kuvausta. (ei ylärajaa)
 
@@ -260,7 +275,7 @@ mikäli onnistumisia ei tule tarpeeksi, vastustaja onnistuu torjumaan hyökkäyk
 
 - Mikäli (normaalisti) teet kierroksessa montaa eri asiaa, valitse keskeisin lähestymistapa, ja heitä noppaa sitä vastaan.
 
-## Viholliset
+# Osa 3 - Viholliset
 
 - Vastustajat eivät normaalisti heitä noppaa vaan he luovat haasteen pelaajahahmoille jotka yrittävät pärjätä haasteen kourissa.
 - (*) Taito stuntti antaa 1 onnistumisen, ei +2 kuvausta 
@@ -285,6 +300,18 @@ Jokaisella hirviöllä oma pieni muutos
 
 - Zombie: 1 kilpi, hidas ja tyhmä
 
+### Nemesis
+
+Pääpahis joka määritelty kuten pelaaja hahmo. Yleensä henkilö jota pelaajahahmot eivät mielellään tapa tunnesiteen takia tai ikävien seurauksien takia (kuten pormestarin murhaaminen on iso rikos)
+
+| **Taitotaso** | **2** kuvausta  | **3** kuvausta | **4** kuvausta | **5** kuvausta | **6 **kuvausta |
+| ------------- | --------------- | -------------- | -------------- | -------------- | -------------- |
+| 5 OOOOO       | 2 onnistumista  | 3              | 3              | 4              | 5              |
+| 4 OOOO        | 1               | 2              | 3              | 3              | 4              |
+| 3 OOO         | 1               | 2              | 2              | 3              | 3              |
+| 2 OO          | 1               | 1              | 1              | 2              | 2              |
+| 1 O           | ei onnistumista | 1              | 1              | 1              | 1              |
+
 ### Inspiraatio
 
 Hahmo saa alussa 3 inspiraatiota minus ylimääräiset stuntit. Se tarkoittaa että joka pelikerran alussa hahmolla on inspiraatiotason verran inspiraatiopisteitä joita voi käyttää
@@ -292,7 +319,7 @@ Hahmo saa alussa 3 inspiraatiota minus ylimääräiset stuntit. Se tarkoittaa et
 - +2 kuvausta jos pelaajan kuvaus miksi hänen ammatti auttaa juuri tässä tapauksessa kuvailemalla hienon takauman
 - aktivoimaan erikoishintaisen stuntin
 - pidentämään magiavoiman kestoaikaa toiselle tasolle
-- käyttämään nimetyn vastustajan ominaisuutta häntä vastaan
+- käyttämään nimetyn vastustajan ominaisuutta häntä vastaan (+2 kuvausta pelaajalle)
 - estämään vihollista käyttämään ominaisuutta hahmoa vastaan
 - tekemään pysyvän taikaesineen mikäli hahmolla on kyseinen voima stuntti
 
@@ -304,7 +331,16 @@ Inspiraatiopisteitä saa lisää kun ongelma ominaisuus nousee ongelmaksi, tai j
 2. Sankari
 3. Legenda
 4. Puolijumala
+5. Jumala
 
-Jokainen skaala etu joka hahmolla on kohteeseen verrattuna antaa yhden automaattisen (lisä) onnistumisen.
+Jokainen skaala etu joka hahmolla on kohteeseen verrattuna antaa yhden automaattisen (lisä) onnistumisen. Tämä bonus tulee vain asioihin joita hahmo voi osata - ammatin taidot, kielitaidot, voimaonnistumiset. Hahmo ei voi yrittää asioita mitä ei voi tehdä esim käyttää voimaa jota hänellä ei ole. Mutta Legenda (esim. hirviönmetsästäjä) voi tinkiä alennusta vaikka lähestymistaso olisi 1, ja saada silti 1-2 onnistumista automaattisesti riippuen millä skaala tasolla myyjä on, yleensä tasolla tavallinen.
 
-Perus sankarit ja hirviöt ovat sankari tasolla. Iso johtaja pahis on Legenda tasolla. Puolijumala tasolla olevat omaavat jo moniulottuvuus voimia ja pelaavat kosmista peliä.
+Perus sankarit ja hirviöt ovat sankari tasolla. Iso johtaja pahis on Legenda tasolla. Puolijumala tasolla olevat omaavat jo moniulottuvuus voimia ja pelaavat kosmista peliä. Jumala skaala on aina pelaajahahmojen saavuttamattomassa sillä aina löytyy joku kovempi kuin pelaajahahmot.
+
+Buffyn ryhmä kuvaa hienosti kuinka jopa oppinut kirjastohiiri Giles voi taistella meleessä vampyyrejä vastaan, sillä hän on samalla skaalalla. Buffy kun heräsi voimiinsa, hänestä tuli hirviönmetsästäjä ja toimi skaalalla Legenda. Toisin kuin willow, hän ei saanut hienoja maagisia voimia, mutta taistelussa hän on ylivertainen, vampyyrit ovat yleensä sankari tasolla.
+
+**Puolijumalien voimat**
+
+- Kaaoksen keijujen voima Tarot
+- Järjestyksen enkeleiden voima Varjokävely
+- Tuonelan herrojen voima Varjosäikeet
