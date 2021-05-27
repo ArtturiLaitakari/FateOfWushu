@@ -1,19 +1,23 @@
-
-
 # Wushu Fate perussäännöt
 
 Wushu perustuu peleihin Wushu rpg ja Fate rpg.
 
 julkaistu https://creativecommons.org/licenses/by-sa/4.0/ lisenssillä.
+
 - http://danielbayn.com/wushu/
+
 - https://fate-srd.com/
+
 - https://github.com/ArtturiLaitakari/FateOfWushu/blob/main/FateofWushu.xlsx Excel hahmolomake
+
 
 Miksi Wushu of Fate?
 
 Pelin perusmoottori on sen verran yksinkertainen jotta pelinjohtaja voi keskittyä tarinan viemisen eteenpäin ja pelaajat voivat keskittyä hahmonsa toimiin ja sankarin hommiin, eikä peli pysähtele sääntökirjojen lukemiseen.
 
 Pelaajille annetaan riittävästi monipuolisuutta hahmon luontiin jotta hahmosta saadaan yksilöllinen, voimakas ja monipuolinen.
+
+
 
 ## Osa 1 - Hahmonluonti
 
@@ -207,11 +211,7 @@ Alue voi olla
 -  Kohteita voi olla 1/piste, eli 3p alue voi olla 3 vastustajaa jotka ovat lähekkäin.
 -  suihku jonka pituus on piste metriä. (1 mana antaa 3m suihkun.) suihkun max kulmaleveys on 45 astetta.
 
-[Buffy & Willow]: (Buffy&Willow.md)
-
-[Buffy & Willow]: https://github.com/ArtturiLaitakari/FateOfWushu/blob/main/Buffy%26Willow.md	""Buffy & Willow""
-
-
+[Buffy & Willow]: Buffy&Willow.md
 
 # Osa 2 - Wushu perussäännöt
 
