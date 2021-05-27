@@ -3,24 +3,17 @@
 Wushu perustuu peleihin Wushu rpg ja Fate rpg.
 
 julkaistu https://creativecommons.org/licenses/by-sa/4.0/ lisenssillä.
-
 - http://danielbayn.com/wushu/
-
 - https://fate-srd.com/
-
 - https://github.com/ArtturiLaitakari/FateOfWushu/blob/main/FateofWushu.xlsx Excel hahmolomake
 
-
-Miksi Wushu of Fate?
+*Miksi Wushu of Fate?*
 
 Pelin perusmoottori on sen verran yksinkertainen jotta pelinjohtaja voi keskittyä tarinan viemisen eteenpäin ja pelaajat voivat keskittyä hahmonsa toimiin ja sankarin hommiin, eikä peli pysähtele sääntökirjojen lukemiseen.
 
 Pelaajille annetaan riittävästi monipuolisuutta hahmon luontiin jotta hahmosta saadaan yksilöllinen, voimakas ja monipuolinen.
 
-
-
 ## Osa 1 - Hahmonluonti
-
 ### Valitse Mantteli
 
 | Mantteli            | Perus stuntit ja ominaisuudet                                |
@@ -324,6 +317,8 @@ Hahmo saa alussa 3 inspiraatiota minus ylimääräiset stuntit. Se tarkoittaa et
 - tekemään pysyvän taikaesineen mikäli hahmolla on kyseinen voima stuntti
 
 Inspiraatiopisteitä saa lisää kun ongelma ominaisuus nousee ongelmaksi, tai jos mikä tahansa ominaisuus osoittautuu ongelmaksi, myös haavat.
+
+
 
 ### Skaala
 
